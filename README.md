@@ -3,7 +3,7 @@
 # Attrition-Model
 Attrition Model is a supervised learning model optimized to work with small data sets to visualize and predict company attrition.
 
-![Attrition](/images/High-employee-turnover.png")
+![Attrition](/images/High-employee-turnover.png)
 
 ## Installation
 Python Libraries:
@@ -24,9 +24,9 @@ https://towardsdatascience.com/breaking-the-curse-of-small-datasets-in-machine-l
 
 ## Tableau
 The dashboard offers analytics and predictions from model.
-![Dashboard](/images/Att_Dash.png")
-![Dashboard1](/images/Att_Dash_1.png")
-![Dashboard2](/images/Att_Dash_2.png")
+![Dashboard](/images/Att_Dash.png)
+![Dashboard1](/images/Att_Dash_1.png)
+![Dashboard2](/images/Att_Dash_2.png)
 
 ## Heroku app
 
