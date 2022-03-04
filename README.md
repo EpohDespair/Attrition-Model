@@ -1,4 +1,4 @@
-<insert logo>
+![Logo](/images/logo.png)
 
 # Attrition-Model
 Attrition Model is a supervised learning model optimized to work with small data sets to visualize and predict company attrition.
@@ -32,5 +32,5 @@ The dashboard offers analytics and predictions from model.
 
 
 ## Collaborations
-HR cloud Database
-Engagement Monitoring
+- HR cloud Database
+- Engagement Monitoring
