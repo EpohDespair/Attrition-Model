@@ -1,4 +1,4 @@
-<img src=(/images/logo.jpg width="100" height="100">
+<img src= "https://github.com/EpohDespair/Attrition-Model/blob/main/images/logo.jpg" width="100" height="100">
 
 # Attrition-Model
 Attrition Model is a supervised learning model optimized to work with small data sets to visualize and predict company attrition.
