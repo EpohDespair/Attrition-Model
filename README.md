@@ -1,4 +1,4 @@
-![Logo](/images/logo.png)
+![Logo](/images/logo.jpg)
 
 # Attrition-Model
 Attrition Model is a supervised learning model optimized to work with small data sets to visualize and predict company attrition.
