@@ -56,10 +56,10 @@ def predict():
 
 
     if single == 1:
-        o1 = "This employee is likely to be leave!!"
+        o1 = "This employee is likely to continue working here!!"
         o2 = "Confidence: {}".format(probablity*100)
     else:
-        o1 = "This employee is likely to continue working here!!"
+        o1 = "This employee is likely to be leave!!"
         o2 = "Confidence: {}".format(probablity*100)
 
     return render_template('home.html', output1=o1, output2=o2,
