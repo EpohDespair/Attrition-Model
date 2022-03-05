@@ -23,9 +23,9 @@ Attrition Model is a supervised learning model optimized to work with small data
 
 ## Tableau
 The dashboard offers analytics and predictions from model.
-![Dashboard](/images/Att_Dash.png)
-![Dashboard1](/images/Att_Dash_1.png)
-![Dashboard2](/images/Att_Dash_2.png)
+![Dashboard](/images/Dash.png)
+![Dashboard1](/images/Dash_1.png)
+![Dashboard2](/images/Dash_2.png)
 
 ## Flask app
 
