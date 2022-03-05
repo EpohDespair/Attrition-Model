@@ -1,4 +1,4 @@
-![Logo](/images/logo.png)
+![Logo](/images/logo.jpg)
 
 # Attrition-Model
 Attrition Model is a supervised learning model optimized to work with small data sets to visualize and predict company attrition.
@@ -29,7 +29,6 @@ The dashboard offers analytics and predictions from model.
 ![Dashboard2](/images/Att_Dash_2.png)
 
 ## Heroku app
-
 
 ## Collaborations
 - HR cloud Database
