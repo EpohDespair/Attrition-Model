@@ -12,7 +12,7 @@ Attrition Model is a supervised learning model optimized to work with small data
     * PyCaret
     * Pickle
 * Tableau
-* Heroku
+* Flask
 
 ## Machine Learning and Small Datasets
 - Small datasets in machine models have a tendency to overfit. Pointers for best practice: 
@@ -27,8 +27,9 @@ The dashboard offers analytics and predictions from model.
 ![Dashboard1](/images/Att_Dash_1.png)
 ![Dashboard2](/images/Att_Dash_2.png)
 
-## Heroku app
+## Flask app
 
+![App](/images/pred_model.png)
 
 ## Collaborations
 - HR cloud Database
